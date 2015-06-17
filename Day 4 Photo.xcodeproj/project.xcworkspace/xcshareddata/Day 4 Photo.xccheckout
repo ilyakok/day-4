@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D69EAA17-6C54-42A3-9D4A-478D98C62284</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Day 4 Photo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>175355FA5D3017F768956E4EA65D49571125514F</key>
+		<string>https://github.com/ilyakok/day-4.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Day 4 Photo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>175355FA5D3017F768956E4EA65D49571125514F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ilyakok/day-4.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>175355FA5D3017F768956E4EA65D49571125514F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>175355FA5D3017F768956E4EA65D49571125514F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Day%204%20Photo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
